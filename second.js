@@ -1,0 +1,1 @@
+var input = "Second JS file";
